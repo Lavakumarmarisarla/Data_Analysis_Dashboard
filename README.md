@@ -2,24 +2,24 @@
 ## Project Objective
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 ## Dataset
-<a href="https://github.com/Lavakumarmarisarla/Data_Analysis_Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
+* <a href="https://github.com/Lavakumarmarisarla/Data_Analysis_Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 # Questions (KPIs)
-Compare the sales and orders using single chart.
+* Compare the sales and orders using single chart.
 
-Which month got the highest sales and orders?
+* Which month got the highest sales and orders?
 
-Who purchased more - Men or Women?
+* Who purchased more - Men or Women?
 
-What are different order status in 2022?
+* What are different order status in 2022?
 
-List top 10 states contributingto the sales?
+* List top 10 states contributingto the sales?
 
-Relation between age and gender based on number of orders.
+* Relation between age and gender based on number of orders.
 
-Which Channel is contributing maximum to the sales?
+* Which Channel is contributing maximum to the sales?
 
-Highest selling category?
+* Highest selling category?
 
-Percentage of Total Orders delivered
+* Percentage of Total Orders delivered
 
-Dashboard Interaction <a href="">View Dashboard</a>
+* Dashboard Interaction <a href="https://github.com/Lavakumarmarisarla/Data_Analysis_Dashboard/blob/main/dashboard%20screenshot.png">View Dashboard</a>
