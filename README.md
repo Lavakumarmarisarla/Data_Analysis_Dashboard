@@ -39,3 +39,13 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 ## Final Conclusion:
 Target **Women** customers of age group(30-49 yrs) living in **Maharastra,Karnataka and Uttar Pradesh** by showing ads/offers/coupouns available on **Amazon,Flipkart and Myntra**.
 
+
+## Author
+
+**Lavakumar Marisarla**  
+Aspiring Data Analyst | Data Science Learner
+
+LinkedIn: www.linkedin.com/in/lavakumarmarisarla
+
+GitHub: https://github.com/Lavakumarmarisarla
+
